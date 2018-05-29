@@ -7,4 +7,3 @@ def fizzbuzz(number)
     puts "FizzBuzz"
   else
     puts "The number you entered is not divisible by three or five."
-    end
