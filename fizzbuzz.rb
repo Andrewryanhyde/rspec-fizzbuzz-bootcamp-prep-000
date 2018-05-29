@@ -12,6 +12,7 @@ def fizzbuzz(number)
   end
   
   else
-    puts "The number you entered is not divisible by three or five" end 
+    puts "The number you entered is not divisible by three or five" 
+  end 
   
 end
